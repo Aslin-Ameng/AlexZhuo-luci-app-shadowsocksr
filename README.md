@@ -9,4 +9,4 @@ OpenWrt/LEDE  LuCI for ShadowsocksR
 
 这很重要 这很重要 这很重要
 ==
-在嘱咐下记得清空pdnsd/files/pdnsd.init 这个pdnsd.init里面的所有东西保存即可
+在嘱咐下记得清空pdnsd/files/pdnsd.init 清空这个pdnsd.init里面的所有东西保存即可  然后编译到固件
